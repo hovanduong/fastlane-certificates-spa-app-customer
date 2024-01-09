@@ -1,0 +1,1 @@
+# fastlane-certificates-spa-app-customer
